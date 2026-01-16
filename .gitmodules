@@ -1,0 +1,15 @@
+[submodule "gui-for-singbox"]
+	path = gui-for-singbox
+	url = https://aur.archlinux.org/gui-for-singbox.git
+
+[submodule "chromebook-linux-audio"]
+	path = chromebook-linux-audio
+	url = https://github.com/WeirdTreeThing/chromebook-linux-audio.git
+
+[submodule "plum"]
+	path = plum
+	url = https://github.com/rime/plum.git
+
+[submodule "wemeet-wayland-screenshare-git"]
+	path = wemeet-wayland-screenshare-git
+	url = https://aur.archlinux.org/wemeet-wayland-screenshare-git.git
